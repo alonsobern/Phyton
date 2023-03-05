@@ -1,3 +1,5 @@
+#MANEJO DE ERRORES EN PYTHON
+
 def party_planner(cookies, people):
     leftovers = None
     num_each = None
